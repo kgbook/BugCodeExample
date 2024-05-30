@@ -43,5 +43,7 @@ void showConfigContent() {
 
 int main() {
     showConfigContent();
+    char *ptr = nullptr;
+    strcpy(ptr, "Hello World!");
     return 0;
 }
