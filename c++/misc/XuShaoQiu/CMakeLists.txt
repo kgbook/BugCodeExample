@@ -1,0 +1,7 @@
+add_executable(XuShaoQiu001 XuShaoQiu001.cpp)
+add_executable(XuShaoQiu002 XuShaoQiu002.cpp)
+add_executable(XuShaoQiu003 XuShaoQiu003.cpp)
+add_executable(XuShaoQiu004 XuShaoQiu004.cpp)
+add_executable(XuShaoQiu005 XuShaoQiu005.cpp)
+add_executable(XuShaoQiu006 XuShaoQiu006.cpp)
+add_executable(XuShaoQiu007 XuShaoQiu007.cpp)

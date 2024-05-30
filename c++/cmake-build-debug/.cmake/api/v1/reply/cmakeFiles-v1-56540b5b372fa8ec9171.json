@@ -1,0 +1,252 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/dl/tools/jetbrains/clion-2023.3.4/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/module_define.cmake"
+		},
+		{
+			"path" : "CWE/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/1.General/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/2.LexicalConventions/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/3.BasicConcepts/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/4.StandardConversions/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/5.Expressions/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/6.Statements/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/7.Declarations/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/8.Definitions/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/9.Classes/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/10.DerivedClasses/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/11.MemberAccessControl/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/12.SpecialMemberFunctions/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/13.Overloading/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/14.Templates/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/15.ExceptionHanding/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/16.Preprocessing/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/17.StandardLibrary/CMakeLists.txt"
+		},
+		{
+			"path" : "highIntegrityC++CodingStandard/18.Concurrency/CMakeLists.txt"
+		},
+		{
+			"path" : "misc/CMakeLists.txt"
+		},
+		{
+			"path" : "misc/ChenPengYuan/CMakeLists.txt"
+		},
+		{
+			"path" : "misc/XuShaoQiu/CMakeLists.txt"
+		},
+		{
+			"path" : "misc/KangDengli/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/1.DCL/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/2.EXP/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/3.INT/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/4.CTR/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/5.STR/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/6.MEM/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/7.FIO/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/8.ERR/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/9.OOP/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/10.CON/CMakeLists.txt"
+		},
+		{
+			"path" : "SEI_CERT/11.MSC/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/dl/workspace/BugCodeExamples/c++/cmake-build-debug",
+		"source" : "/home/dl/workspace/BugCodeExamples/c++"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

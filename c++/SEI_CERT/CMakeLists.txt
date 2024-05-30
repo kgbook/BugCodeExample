@@ -1,0 +1,12 @@
+
+add_subdirectory(1.DCL)
+add_subdirectory(2.EXP)
+add_subdirectory(3.INT)
+add_subdirectory(4.CTR)
+add_subdirectory(5.STR)
+add_subdirectory(6.MEM)
+add_subdirectory(7.FIO)
+add_subdirectory(8.ERR)
+add_subdirectory(9.OOP)
+add_subdirectory(10.CON)
+add_subdirectory(11.MSC)

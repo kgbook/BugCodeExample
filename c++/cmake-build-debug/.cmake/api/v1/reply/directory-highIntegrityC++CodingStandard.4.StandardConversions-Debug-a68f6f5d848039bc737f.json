@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "highIntegrityC++CodingStandard/4.StandardConversions",
+		"source" : "highIntegrityC++CodingStandard/4.StandardConversions"
+	}
+}

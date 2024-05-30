@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "highIntegrityC++CodingStandard/13.Overloading",
+		"source" : "highIntegrityC++CodingStandard/13.Overloading"
+	}
+}
