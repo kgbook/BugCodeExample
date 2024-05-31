@@ -1,0 +1,1 @@
+add_executable( KangDengli01 KangDengli01.cpp)
